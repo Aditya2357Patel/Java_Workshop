@@ -1,7 +1,7 @@
 /*
-Author: 
+Author: Aditya Deep
 Version: 0.5
-Date: 28/09/2010
+Date: 28/07/2024
 
 Discription:
 This is a console snake game that can (or should) work in linux & windows environments.
